@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\blackus\desktop\proekti\calculator\calculator\source.cpp(167): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\blackus\desktop\proekti\calculator\calculator\source.cpp(187): warning C4018: <: несоответствие типов со знаком и без знака
+  calculator.vcxproj -> C:\Users\Blackus\Desktop\Proekti\calculator\Debug\calculator.exe
